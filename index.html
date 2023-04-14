@@ -1,35 +1,49 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang='en'>
     <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset='UTF-8'>
+        <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+        <meta name='viewport' content='width=device-width, initial-scale=1.0'>
         <title>Escola Pinheiros</title>
-        <link rel="stylesheet" href="./styles/main.css">
+        <link rel='stylesheet' href='./styles/main.css'>
+        <script src='https://cdn.jsdelivr.net/npm/datedreamer@0.2.0/dist/datedreamer.js'></script>
+        <script src='./script/script.js'></script>
     </head>
     <body>
-        <div class="background">
+        <div class='background'>
             <header>
-                <div class="logo">
-                    <img src="./images/logo_real.jpg" alt="">
+                <div class='logo'>
+                    <img src='./images/logo_real.jpg' alt=''>
                 </div>
-                <div class="cabeçalho">
-                    <h1>Escola Pinheiros</h1>
-                    <h2>Data</h2>
-                </div><!--logo-->
+                <h1>Escola Pinheiros</h1>
+                <h2 id='date'></h2>
             </header>
-            <div class="corpo">
-                <li>Início</li>
-                <li>Histórico</li>
-                <li>Log Out</li>
-                <div class="container-materiais">
-                    <h3>Materiais</h3>
-                    <button>Locar</button>
-                    <button>Confirmar locação</button>
+            <div class='corpo'>
+                <ul class='links'>
+                    <li>Início</li>
+                    <li>Histórico</li>
+                    <li>Log Out</li>
+                </ul>
+
+                <div class='container-materiais'>
+                    <h3 class='materialsTitle'>Materiais</h3>
+                    <ul id='productList'>
+                        <!-- Filled dinamically by JS -->
+                    </ul>
+                    
                 </div><!--container-materiais-->
+                
+                <div class='rightSide'>
+                    <div id='calendar'></div>
+                    <button onclick="sendProducts(cart, selectedDate)">Confirmar locação</button>
+                </div>
             </div><!--corpo-->
-            <div class="rodape">
-            </div><!--rodape-->
+
+            
+            
+            <footer>
+                <p>Endereço: iuhdfud aisudha diaud</p>
+            </footer><!--rodape-->
         </div> <!--background-->
     </body>
 </html>
