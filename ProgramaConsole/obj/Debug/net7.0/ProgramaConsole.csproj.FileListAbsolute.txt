@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Thiago\UNIP\Semestre3\PIM_V\WebApplication\ProgramaConsole\bin\Debug\net7.0\ProgramaConsole.exe
+C:\Users\User\Desktop\Thiago\UNIP\Semestre3\PIM_V\WebApplication\ProgramaConsole\bin\Debug\net7.0\ProgramaConsole.deps.json
+C:\Users\User\Desktop\Thiago\UNIP\Semestre3\PIM_V\WebApplication\ProgramaConsole\bin\Debug\net7.0\ProgramaConsole.runtimeconfig.json
+C:\Users\User\Desktop\Thiago\UNIP\Semestre3\PIM_V\WebApplication\ProgramaConsole\bin\Debug\net7.0\ProgramaConsole.dll
+C:\Users\User\Desktop\Thiago\UNIP\Semestre3\PIM_V\WebApplication\ProgramaConsole\bin\Debug\net7.0\ProgramaConsole.pdb
+C:\Users\User\Desktop\Thiago\UNIP\Semestre3\PIM_V\WebApplication\ProgramaConsole\obj\Debug\net7.0\ProgramaConsole.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Thiago\UNIP\Semestre3\PIM_V\WebApplication\ProgramaConsole\obj\Debug\net7.0\ProgramaConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Thiago\UNIP\Semestre3\PIM_V\WebApplication\ProgramaConsole\obj\Debug\net7.0\ProgramaConsole.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Thiago\UNIP\Semestre3\PIM_V\WebApplication\ProgramaConsole\obj\Debug\net7.0\ProgramaConsole.AssemblyInfo.cs
+C:\Users\User\Desktop\Thiago\UNIP\Semestre3\PIM_V\WebApplication\ProgramaConsole\obj\Debug\net7.0\ProgramaConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Thiago\UNIP\Semestre3\PIM_V\WebApplication\ProgramaConsole\obj\Debug\net7.0\ProgramaConsole.dll
+C:\Users\User\Desktop\Thiago\UNIP\Semestre3\PIM_V\WebApplication\ProgramaConsole\obj\Debug\net7.0\refint\ProgramaConsole.dll
+C:\Users\User\Desktop\Thiago\UNIP\Semestre3\PIM_V\WebApplication\ProgramaConsole\obj\Debug\net7.0\ProgramaConsole.pdb
+C:\Users\User\Desktop\Thiago\UNIP\Semestre3\PIM_V\WebApplication\ProgramaConsole\obj\Debug\net7.0\ProgramaConsole.genruntimeconfig.cache
+C:\Users\User\Desktop\Thiago\UNIP\Semestre3\PIM_V\WebApplication\ProgramaConsole\obj\Debug\net7.0\ref\ProgramaConsole.dll
